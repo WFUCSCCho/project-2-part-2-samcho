@@ -30,9 +30,12 @@ Write a brief description of the strategy you employed to improve the performanc
   * Appropriate error messages must be issued for failures, followed by a graceful exit.
 
 **Performance Analyses**
-To analyze the relative performances of the CPU vs. GPU implementations of your image blurring algorithms, you will compute the time it takes to complete an image blurring function/kernel call.  
+To analyze the relative performances of the GPU implementations of your image blurring algorithms, you will compute the time it takes to complete an image blurring function/kernel call.  
 
 Hint: In the execution of your GPU implementation, for accurate timing information, you must call the kernel twice because the GPU initialization takes time that is unrelated to the algorithm.
+
+**Gemini Usage Documentation**
+Some interesting stuff here.
 
 
 **Project Submission**
