@@ -34,7 +34,7 @@ To analyze the relative performances of the GPU implementations of your image bl
 
 Hint: In the execution of your GPU implementation, for accurate timing information, you must call the kernel twice because the GPU initialization takes time that is unrelated to the algorithm.
 
-** Gemini Usage Documentation **
+**Gemini Usage Documentation**
 Some interesting stuff here.
 
 
